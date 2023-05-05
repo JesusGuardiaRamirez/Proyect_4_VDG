@@ -1,11 +1,11 @@
 # Proyect_4_VDG
 
 
-#### Violencia de Genero en España.
+# Violencia de Genero en España.
 
 Este proyecto va enfocado y abriendo paso a mi proyecto final con Ironhack.
 
-## Los requisitos de este proyecto son:.
+### Los requisitos de este proyecto son:.
 
 * Obtener la información de 3 fuentes diferentes.
 
