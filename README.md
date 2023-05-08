@@ -88,7 +88,7 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 
 
 
-*******************************
+***********************************************
 
 
 
@@ -103,6 +103,10 @@ url  =  'http://estadisticasviolenciagenero.igualdad.mpr.gob.es/'
 ![Captura de pantalla 2023-05-08 a las 21 50 36](https://user-images.githubusercontent.com/125477881/236919977-f6100342-17ab-41c3-92f9-10009042366c.png)
 
 
+************************************************
+
+
+
 Y por ultimo, un PDF de los datos reales de Francia del cual he tenido que pasar por la libreria pandas y poder pasar los datos y trabajar con ellos.
 
 
@@ -110,7 +114,11 @@ Y por ultimo, un PDF de los datos reales de Francia del cual he tenido que pasar
 
 
 
-************************************
+
+
+************************************************
+
+
 
 
 
@@ -123,9 +131,15 @@ sigue en las proximas semanas, de cara a la galeria del proyecto final de IRONHA
 
 
 
-Con esto dariamos por finalizado este prouyecto ya que se trataba solmanete de:
+*************
 
 
+
+## Con esto dariamos por finalizado este prouyecto ya que se trataba solmanete de:
+
+
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
         1. OBTENER / SUSTRAER LOS DATOS DE 3 TIPOS DE FUENTES 
         2. UTILIZAR DOS METODOS, los cuales yo he utilizado el Scrapeo, Trasnferir los datos desde PDF y archivos CSVs. 
