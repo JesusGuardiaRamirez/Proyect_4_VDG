@@ -26,7 +26,7 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 
         1. Extraer datos.
         2. Limpieza y análisis de los datos.
-        3. Crear base de datos SQL relacional.
+        3. Crear base de datos SQL.
         
 
 * Obtener la información de 3 fuentes diferentes.
@@ -54,6 +54,8 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
     
 *******************************
 
+
+
 ### Proyect Braking Down:
 
 
@@ -75,12 +77,18 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 ![Captura de pantalla 2023-05-08 a las 21 40 32](https://user-images.githubusercontent.com/125477881/236917925-b279d4b4-dbe6-4f86-a719-4940a8e26275.png)
 
 
+
+
 Del cual guardo los datos en un CSV para su uso.
 
 
 
 
 *******************************
+
+
+
+
 
 * Tambien he utilizado la pagina web del gobierno de españa para sacar los datos reales de las victimas de vilencia de genero, el registro eseñaba desde el 
 2013. 
