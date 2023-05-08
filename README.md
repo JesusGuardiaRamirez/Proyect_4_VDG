@@ -70,16 +70,20 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 
   url = 'https://es.wikipedia.org/wiki/Anexo:Comunidades_y_ciudades_aut%C3%B3nomas_de_Espa%C3%B1a'
   
+ 
+  
+
+   ![Captura de pantalla 2023-05-08 a las 21 40 32](https://user-images.githubusercontent.com/125477881/236917925-b279d4b4-dbe6-4f86-a719-4940a8e26275.png)
+
+ 
+ * Donde la informacion transformada se queda tal y aparece en la siguiente imagen:
   
   
+   ![Captura de pantalla 2023-05-08 a las 22 55 27](https://user-images.githubusercontent.com/125477881/236933049-3f6bb134-e3e8-4ec3-bc52-6b4aafd56480.png)
+
   
 
-![Captura de pantalla 2023-05-08 a las 21 40 32](https://user-images.githubusercontent.com/125477881/236917925-b279d4b4-dbe6-4f86-a719-4940a8e26275.png)
-
-
-
-
-Del cual guardo los datos en un CSV para su uso.
+* Del cual guardo los datos en un CSV para su uso.
 
 
 
