@@ -151,14 +151,15 @@ sigue en las proximas semanas, de cara a la galeria del proyecto final de IRONHA
 
 
 
-## Con esto dariamos por finalizado este prouyecto ya que se trataba solmanete de:
+## Con esto dariamos por finalizado este proyecto ya que se trataba solmanete de:
 
 
 
 
 
-        1. OBTENER / SUSTRAER LOS DATOS DE 3 TIPOS DE FUENTES 
-        2. UTILIZAR DOS METODOS, los cuales yo he utilizado el Scrapeo, Trasnferir los datos desde PDF y archivos CSVs. 
+       1. E - Extraer
+       2. T - Trasnfomar
+       3. c - Cargar
 
 
 
