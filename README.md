@@ -158,8 +158,8 @@ sigue en las proximas semanas, de cara a la galeria del proyecto final de IRONHA
 
 
        1. E - Extraer
-       2. T - Trasnfomar
-       3. c - Cargar
+       2. T - Transfomar
+       3. L - (Load) Cargar
 
 
 
