@@ -31,7 +31,7 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 
 * Obtener la información de 3 fuentes diferentes.
 
-por ejemplo: URL / PDF / CSV 
+
 
         1. URL
         2. PDF
