@@ -1,3 +1,5 @@
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 # Proyecto - VIOLENCIA DE GENERO. 
 
 
@@ -5,28 +7,49 @@
 
 
 
+
+
 ![Captura de pantalla 2023-05-05 a las 11 54 21](https://user-images.githubusercontent.com/125477881/236429147-df33e2d7-86eb-4888-ab9f-eb7b0495f936.png)
+
+
 
 
 Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyecto final con Ironhack.
 
 
 
+
+
 ### Los requisitos de este proyecto son:
 
+
+
+        1. Extraer datos.
+        2. Limpieza y análisis de los datos.
+        3. Crear base de datos SQL relacional.
+        
 
 * Obtener la información de 3 fuentes diferentes.
 
 por ejemplo: URL / PDF / CSV 
 
+        1. URL
+        2. PDF
+        3. CSV
+
+
 
 * Usar dos de los siguientes métodos para esa obteneción de datos:
-    
-    Archivos, 
-    DB, 
-    Apis,
-    Rss, 
-    Scraping
+ 
+ 
+ 
+        1. Archivos.
+        2. DB.
+        3. Apis.   
+        4. Rss
+        5. Scraping
+     
+  
     
     
 *******************************
@@ -34,7 +57,12 @@ por ejemplo: URL / PDF / CSV
 ### Proyect Braking Down:
 
 
+
+
+
 * He utilizado el scraping para coger la informacion de wikipedia con referencia a las comunidades autonomas y asi obtener los datos mas actuliazados de la poblacion.
+
+
 
 
 
@@ -85,8 +113,10 @@ sigue en las proximas semanas, de cara a la galeria del proyecto final de IRONHA
 
 Con esto dariamos por finalizado este prouyecto ya que se trataba solmanete de:
 
-1 - OBTENER / SUSTRAER LOS DATOS DE 3 TIPOS DE FUENTES 
-2 - Y UTILIZAR DOS METODOS, los cuales yo he utilizado el Scrapeo, Trasnferir los datos desde PDF y archivos CSVs. 
+
+
+        1. OBTENER / SUSTRAER LOS DATOS DE 3 TIPOS DE FUENTES 
+        2. UTILIZAR DOS METODOS, los cuales yo he utilizado el Scrapeo, Trasnferir los datos desde PDF y archivos CSVs. 
 
 
 
