@@ -103,6 +103,22 @@ url  =  'http://estadisticasviolenciagenero.igualdad.mpr.gob.es/'
 ![Captura de pantalla 2023-05-08 a las 21 50 36](https://user-images.githubusercontent.com/125477881/236919977-f6100342-17ab-41c3-92f9-10009042366c.png)
 
 
+
+De los cuales saqué datos como los siguientes: 
+
+
+
+
+
+        1. Vicimas mortales menores.
+        2. Victimas mortales mujeres.
+        3. Llamadas pertinentes anuales.   
+        4. Denuncias anuales
+        5. Etc..
+        
+       
+     
+
 ************************************************
 
 
