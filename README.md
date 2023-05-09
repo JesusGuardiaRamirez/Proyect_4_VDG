@@ -110,7 +110,7 @@ De los cuales saqué datos como los siguientes:
 
 
 
-        1. Vicimas mortales menores.
+        1. Victimas mortales menores.
         2. Victimas mortales mujeres.
         3. Llamadas pertinentes anuales.   
         4. Denuncias anuales
