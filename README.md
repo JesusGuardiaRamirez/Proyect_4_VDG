@@ -123,7 +123,12 @@ De los cuales saqué datos como los siguientes:
 
 
 
-Y por ultimo, un PDF de los datos reales de Francia del cual he tenido que pasar por la libreria pandas y poder pasar los datos y trabajar con ellos.
+Y por ultimo, un PDF de la siguiente url, son datos reales de Francia del cual he tenido que pasar por la libreria pandas y poder pasar los datos y trabajar con ellos.
+
+
+url = 'https://www.interieur.gouv.fr/actualites/communiques/violences-conjugales-enregistrees-par-services-de-securite-en-2019'
+
+
 
 
 ![Captura de pantalla 2023-05-08 a las 22 01 20](https://user-images.githubusercontent.com/125477881/236922063-aec442e7-b174-4fb4-876c-a8452c05ad93.png)
