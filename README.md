@@ -25,7 +25,7 @@ Este proyecto va enfocado a la violencia de genero, y abriendo paso a mi proyect
 
 
         1. Extraer datos.
-        2. Limpieza y análisis de los datos.
+        2. Limpieza.
         3. Crear base de datos SQL.
         
 
